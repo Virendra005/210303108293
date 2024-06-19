@@ -1,0 +1,17 @@
+{
+    "companies": [
+      { "id": 1, "name": "Company A" },
+      { "id": 2, "name": "Company B" }
+    ],
+    "products": {
+      "1": [
+        { "id": 1, "name": "Product A1", "price": "$100" },
+        { "id": 2, "name": "Product A2", "price": "$150" }
+      ],
+      "2": [
+        { "id": 3, "name": "Product B1", "price": "$200" },
+        { "id": 4, "name": "Product B2", "price": "$250" }
+      ]
+    }
+  }
+  
